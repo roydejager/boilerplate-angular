@@ -1,0 +1,30 @@
+$default-font: 'Lato', sans-serif;
+$title-font: 'Open Sans', sans-serif;
+
+html {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  font-family: $default-font;
+  font-weight: 400;
+  color: $color-font;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+strong,
+em {
+  margin: 0 0 20px 0;
+  padding: 0;
+  line-height: 1.6;
+}
+

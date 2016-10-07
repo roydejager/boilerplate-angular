@@ -1,0 +1,21 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp-browserify": "^0.5.1",
+    "gulp-image": "^2.7.0",
+    "gulp-nunjucks-render": "^2.0.0",
+    "gulp-sass": "^2.3.2"
+  },
+  "dependencies": {
+    "jquery": "^3.1.0",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}
